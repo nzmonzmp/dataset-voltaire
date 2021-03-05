@@ -1,0 +1,14 @@
+#Ignore zip files
+*.zip
+
+#Ignore url.link files
+*.link
+
+#ignore ipynb files
+*ipynb
+
+#ignore tarball
+*tar
+
+#ignore *~ emacs temp files
+*~
